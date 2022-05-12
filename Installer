@@ -4,7 +4,7 @@ asyncio
 dnspython
 ffmpeg-python
 future
-https://github.com/VENOM-CRAZY/opyotdol
+git+https://github.com/VENOM-CRAZY/opyotdol
 motor
 pillow
 psutil
